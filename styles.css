@@ -1,0 +1,41 @@
+.header{
+     padding: 10px;
+    display: flex;
+    justify-content: space-between;
+   
+    background-color:brown;
+    color:white;
+}
+.footer{
+    background-color:silver;
+}
+.container{
+    margin: 0px;
+}
+*{
+    margin: 0px;
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    list-style: none;
+    margin: 5px;
+}
+.menu li a{
+    text-decoration: none;
+    color:white;
+}
+.sideheading{
+    background-color: orange;
+    /* display: flex; */
+    margin: 0px;
+    padding: 5px;
+}
+.box{
+    margin: 10px;
+    padding: 10px;
+    border: 1px black solid ;
+    background-color:silver;
+    width:auto;
+}
