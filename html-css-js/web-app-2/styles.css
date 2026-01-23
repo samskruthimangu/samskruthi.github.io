@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.box{
+    margin: 5px;
+    border:5px solid grey ;
+    text-align: center;
+    border-bottom: 10px;
+}
+.cart{
+    background-color: green;
+    color: white;
+    border-color: white;
+}
